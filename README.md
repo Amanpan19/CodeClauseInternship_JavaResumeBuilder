@@ -1,3 +1,4 @@
 # JavaResumeBuilder
 
-![image](https://github.com/Amanpan19/JavaResumeBuilder/assets/120437937/3163f53c-6237-45ce-9492-213a941ed908)
+![image](https://github.com/Amanpan19/JavaResumeBuilder/assets/120437937/f101a72a-3497-470e-a79a-e6cf23dbf89d)
+
